@@ -1,0 +1,5 @@
+Third stage :PS3
+The third stage of PS3 is a solid rocket motor that provides the upper stage high thrust after the atmospheric phase of the lauch
+Fuel      :HTPB
+Max.thrust:240KN
+ 
