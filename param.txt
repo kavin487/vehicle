@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 base param 
 Height           :44m
 Diameter         :2.8m
@@ -9,3 +10,10 @@ The PS4 is the uppermost stage ofPSLV,comprising of two earth storable liquid en
 Engie     :2*PS-4
 Fuel      :MMH+MON
 Max.thrust:7.6*2KN
+=======
+Third stage :PS3
+The third stage of PS3 is a solid rocket motor that provides the upper stage high thrust after the atmospheric phase of the lauch
+Fuel      :HTPB
+Max.thrust:240KN
+ 
+>>>>>>> PS2
